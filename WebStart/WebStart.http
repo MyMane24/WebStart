@@ -1,0 +1,6 @@
+@WebStart_HostAddress = http://localhost:5155
+
+GET {{WebStart_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
